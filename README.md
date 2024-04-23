@@ -1,4 +1,4 @@
-![image](https://github.com/KimIl0207/SmartDevice/assets/163235003/07167447-e4ec-49fa-a1b7-b5d7e08d74d7)SmartDevice
+SmartDevice
 =========
 Welcome!
 ----------
