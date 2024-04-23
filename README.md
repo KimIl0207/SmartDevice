@@ -1,4 +1,4 @@
-SmartDevice
+![image](https://github.com/KimIl0207/SmartDevice/assets/163235003/07167447-e4ec-49fa-a1b7-b5d7e08d74d7)SmartDevice
 =========
 Welcome!
 ----------
@@ -10,7 +10,7 @@ Welcome!
 * [3주차][3]
 * [4주차][4]
 * [5주차][5]
-
+* [7주차][6]
 
 
 
@@ -32,3 +32,4 @@ Welcome!
 [3]: https://github.com/KimIl0207/SmartDevice/wiki/3%EC%A3%BC%EC%B0%A8-%E2%80%90-LED-%EC%A0%90%EB%93%B1-%EC%8B%A4%EC%8A%B5
 [4]: https://github.com/KimIl0207/SmartDevice/wiki/4%EC%A3%BC%EC%B0%A8%E2%80%90%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%ED%86%B5%EC%8B%A0%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-RGB-LED-%EC%A0%90%EB%93%B1
 [5]: https://github.com/KimIl0207/SmartDevice/wiki/5%EC%A3%BC%EC%B0%A8-%E2%80%90-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8A%B5
+[6]: https://github.com/KimIl0207/SmartDevice/wiki/7%EC%A3%BC%EC%B0%A8%E2%80%90%EC%9B%B9-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%ED%8F%AC%ED%8A%B8-%ED%8F%AC%EC%9B%8C%EB%94%A9
