@@ -12,7 +12,7 @@ Welcome!
 * [5주차][5]
 * [7주차][6]
 * [8주차][7]
-
+* [9주차][8]
 
 
 
@@ -34,3 +34,4 @@ Welcome!
 [5]: https://github.com/KimIl0207/SmartDevice/wiki/5%EC%A3%BC%EC%B0%A8-%E2%80%90-%EC%9B%B9-%EC%84%9C%EB%B2%84%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8A%B5
 [6]: https://github.com/KimIl0207/SmartDevice/wiki/7%EC%A3%BC%EC%B0%A8%E2%80%90%EC%9B%B9-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%ED%8F%AC%ED%8A%B8-%ED%8F%AC%EC%9B%8C%EB%94%A9
 [7]: https://github.com/KimIl0207/SmartDevice/wiki/8%EC%A3%BC%EC%B0%A8%E2%80%90%EC%9B%B9%EC%84%9C%EB%B2%84-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D-%EB%B0%8F-%EC%98%A8%EC%8A%B5%EB%8F%84-%EC%B8%A1%EC%A0%95-%EB%AA%A8%EB%93%88-%EC%8B%A4%EC%8A%B5
+[8]: https://github.com/KimIl0207/SmartDevice/wiki/9%EC%A3%BC%EC%B0%A8%E2%80%90MQTT-%EB%B0%8F-%EC%B4%88%EC%9D%8C%ED%8C%8C-%EB%AA%A8%EB%93%88-%EC%8B%A4%EC%8A%B5
