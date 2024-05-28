@@ -14,7 +14,7 @@ Welcome!
 * [8주차][7]
 * [9주차][8]
 * [10주차][9]
-
+* [11주차][10]
 
 
 
@@ -36,3 +36,4 @@ Welcome!
 [7]: https://github.com/KimIl0207/SmartDevice/wiki/8%EC%A3%BC%EC%B0%A8%E2%80%90%EC%9B%B9%EC%84%9C%EB%B2%84-%EC%99%B8%EB%B6%80-%EC%A0%91%EC%86%8D-%EB%B0%8F-%EC%98%A8%EC%8A%B5%EB%8F%84-%EC%B8%A1%EC%A0%95-%EB%AA%A8%EB%93%88-%EC%8B%A4%EC%8A%B5
 [8]: https://github.com/KimIl0207/SmartDevice/wiki/9%EC%A3%BC%EC%B0%A8%E2%80%90MQTT-%EB%B0%8F-%EC%B4%88%EC%9D%8C%ED%8C%8C-%EB%AA%A8%EB%93%88-%EC%8B%A4%EC%8A%B5
 [9]: https://github.com/KimIl0207/SmartDevice/wiki/10%EC%A3%BC%EC%B0%A8-%E2%80%90-Firebase-%EB%B0%8F-%EB%B9%9B-%EA%B0%90%EC%A7%80-%EC%84%BC%EC%84%9C-%EB%AA%A8%EB%93%88-%EC%8B%A4%EC%8A%B5
+[10]: https://github.com/KimIl0207/SmartDevice/wiki/11%EC%A3%BC%EC%B0%A8-%E2%80%90-%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%99%80-NTP-%EC%84%9C%EB%B2%84-%EC%8B%A4%EC%8A%B5
